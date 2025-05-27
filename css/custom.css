@@ -1,0 +1,7 @@
+.navbar-brand img {
+    width: 150px;
+    height: auto !important;
+}
+header.masthead {
+    background-image: url(../assets/img/gedung-idb-baru-IRENG.png);
+}
